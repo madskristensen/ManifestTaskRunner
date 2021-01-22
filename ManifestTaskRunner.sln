@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30921.153
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTaskRunner", "ManifestTaskRunner\ManifestTaskRunner.csproj", "{BE4F3785-9E19-4188-91D4-3ED38A307069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTaskRunner", "src\ManifestTaskRunner.csproj", "{BE4F3785-9E19-4188-91D4-3ED38A307069}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5587B5C6-B054-4170-A4CA-9215FCC628A6}"
 	ProjectSection(SolutionItems) = preProject
