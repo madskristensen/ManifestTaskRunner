@@ -1,8 +1,8 @@
 # VSIX Manifest Task Runner
 
-[![Build status](https://ci.appveyor.com/api/projects/status/j8mx6l6c97yemm2t?svg=true)](https://ci.appveyor.com/project/madskristensen/codetourvs)
+[![Build status](https://ci.appveyor.com/api/projects/status/5fe8ha61syf9wirm?svg=true)](https://ci.appveyor.com/project/madskristensen/manifesttaskrunner)
 
-Code Tours shows guided tours through any source code base. They are easy to create and easy to use.
+Example of how to create a simple Task Runner Explorer extension
 
 Download this extension from the [CI build](https://www.vsixgallery.com/extension/ManifestTaskRunner.642e7f23-01f4-4f30-8c57-815b72cef483).
 
